@@ -15,3 +15,6 @@ You'll also need a Google Cloud Account with billing enabled to get an API key t
  - https://developers.google.com/maps/documentation/geocoding/overview
  
 This is an excellent source on how to interact with the Maps API within Python: https://buildmedia.readthedocs.org/media/pdf/jupyter-gmaps/latest/jupyter-gmaps.pdf
+
+![Map Example 1](/screenshots/1.png)
+![Map Example 2](/screenshots/2.png)
